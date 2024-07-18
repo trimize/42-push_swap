@@ -8,7 +8,7 @@ Sorting algortihm of a pile using two piles in c.
 
 
 ```bash
-https://github.com/trimize/42-push_swap.git && cd 42-push_swap
+git clone https://github.com/trimize/42-push_swap.git && cd 42-push_swap
 ```
 
 ## Usage
